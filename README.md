@@ -28,7 +28,7 @@ How to Play
     You will be prompted to enter a 5-letter word guess.
     After each guess, the game will provide feedback:
         Green letter: Correct letter in the correct position.
-        Grey letter: Correct letter but in the wrong position.
+        Yellow letter: Correct letter but in the wrong position.
         Red letter: Incorrect letter.
     You have 6 attempts to guess the word correctly.
 
