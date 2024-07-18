@@ -1,5 +1,8 @@
 Wordle Game
 
+![image](https://github.com/user-attachments/assets/4fb7ee26-7f28-4fe4-9e4a-dd1b94d8c2d0)
+
+
 Welcome to Wordle! This is a simple console-based word guessing game written in Python.
 
 Introduction
