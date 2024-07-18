@@ -9,16 +9,16 @@ Setup
 
 To run the game in your terminal, follow these steps:
 
-git clone https://github.com/your-username/wordle-game.git
-cd wordle-game
+Clone the repository:
+
+	git clone https://github.com/your-username/wordle-game.git
+	cd wordle-game
 
 Ensure you have Python installed (version 3.x recommended).
 
 Run the game:
 
-bash
-
-    python wordle.py
+    python3 wordle.py
 
 How to Play
 
@@ -32,5 +32,4 @@ How to Play
 Tutorial
 
 If you're new to the game, there's a tutorial option available within the game itself. It explains the rules and provides examples of feedback colors.
-Screenshots
 
