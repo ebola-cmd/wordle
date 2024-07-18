@@ -36,3 +36,6 @@ Tutorial
 
 If you're new to the game, there's a tutorial option available within the game itself. It explains the rules and provides examples of feedback colors.
 
+Note:
+you can also run this by opening it in a code editor
+
